@@ -18,9 +18,9 @@
       a. Install wallet
   4.  Kalau kalian kuli airdrop jurusan PC:
       a. Install wallet. Kalau di PC, berarti kalian nanti install extension browser sebagai berikut; "Semua? Iya semua."
-          - *Metamask* https://metamask.io/ (Wallet berbagai network yang awalannya 0x, kayak Ethereum Mainnet, Binance Smart Chain Mainnet, Polygon Mainnet, dll.), 
-          - *Phantom Wallet* https://phantom.app (Wallet network Solana)
-          - *Binance Wallet* https://www.binance.com/en/wallet-direct (Ini mirip Metamask, cuma gak semua website support tapi udah ada networknya, tinggal ganti aja)
-          - *Polkadot.js* https://polkadot.js.org/ (Wallet Network Polkadot)
+          i. *Metamask* https://metamask.io/ (Wallet berbagai network yang awalannya 0x, kayak Ethereum Mainnet, Binance Smart Chain Mainnet, Polygon Mainnet, dll.), 
+          ii. *Phantom Wallet* https://phantom.app (Wallet network Solana)
+          iii. *Binance Wallet* https://www.binance.com/en/wallet-direct (Ini mirip Metamask, cuma gak semua website support tapi udah ada networknya, tinggal ganti aja)
+          iv. *Polkadot.js* https://polkadot.js.org/ (Wallet Network Polkadot)
       b. Buat akun platform-platform berikut
       c. 
