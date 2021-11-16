@@ -1,4 +1,4 @@
-# BAHAS AIRDROP | Ian, Airdrop Watson
+# BAHAS AIRDROP | Airdrop Watson
   Nah, kalian pasti mampir karena aku nge-shill, promosiin, airdrop kan? Nah, denger-denger bisa dapet duit nih. Gimana tuh? Baca ya! 
 
 ## Join Grup Airdrop Watson Ya!
