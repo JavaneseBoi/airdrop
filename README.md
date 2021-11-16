@@ -1,13 +1,13 @@
-#### BAHAS AIRDROP | Ian, Airdrop Watson
+# BAHAS AIRDROP | Ian, Airdrop Watson
   Nah, kalian pasti mampir karena aku nge-shill, promosiin, airdrop kan? Nah, denger-denger bisa dapet duit nih. Gimana tuh? Baca ya! 
 
 ## Join Grup Airdrop Watson Ya!
   Jangan lupa join juga https://t.me/airdropwatson sama https://t.me/airdropwatsondiscuss biar kalian enak nguli airdropnya.
-# "Oke, gue udah join, tapi apa itu airdrop?"
+### "Oke, gue udah join, tapi apa itu airdrop?"
   Airdrop = kripto gratis = duit gratis. Ya gitulah intinya.
-# "Lah, duit gratis? Tujuan airdrop bagi penyelenggara airdrop apa dong?"
+### "Lah, duit gratis? Tujuan airdrop bagi penyelenggara airdrop apa dong?"
   Promosiin ke masyarakat luas, nanti kalian juga paham, selain itu juga ada tujuan lain dari developer tokennya sih. DYOR aja deh, yang penting kita dapet duit aja dulu, tujuannya mah buat apa wkwk.
-# "Manfaat bagi gue apa dong?"
+### "Manfaat bagi gue apa dong?"
   Ya seperti yang ku bilang tadi, kalian bakalan dapet suatu token kripto gratis yang kadang ada valuenya. Belum lagi kalian bakal dapet ilmu soal crypto. Misalnya; cara simpen crypto pakai wallet sendiri, cara kirim crypto ke wallet temen, crypto tuh kayak gimana, gitu-gitulah. Nah jadi ya ini menurutku ya langkah awal untuk mempelajari crypto terbaik. Kalian gak ada modal, modalnya mah hp sama kemauan aja, eh sama kuota.
 
 ## "Oke keren. Terus gimana gue join airdrop ini? MLM bukan sih? Kok kayak banyak janji manisnya kayak sales MLM?"
