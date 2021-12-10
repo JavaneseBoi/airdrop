@@ -29,3 +29,13 @@
       - **Buat akun platform-platform berikut**; Telegram, Twitter, Facebook, Instagram, Medium, Linkedin, Reddit, CoinMarketCap. Ya itu sih yang sering dipakai buat garap task airdrop.
       - **Buat akun platform exchange** *Ingat! Jangan sekali-sekali pakai address dari exchange buat garap airdrop* sebagai berikut; [Binance](https://accounts.binance.com/en/register?ref=192098979), [Kucoin](https://www.kucoin.com/ucenter/signup?rcode=rJX74LW), [OKEx](https://www.okex.com/join/11459465), [TokoCrypto](https://www.tokocrypto.com/account/signup?ref=BF583KWC)
   - [Setting Metamask](./rpcMetamask.md), tahu gak sih kalian bisa konek ke berbagai network pakai metamask dengan cara setup RPC, pergi ke [link ini](./rpcMetamask.d) terus ikutin aja langkahnya.
+
+
+
+
+##### To do list
+- [x] Perkenalan Airdrop
+- [x] Persiapan Airdrop
+- [ ] Hal yang perlu diperhatikan soal airdrop
+- [ ] Buat daftar RPC Metamask dalam bentuk tabel
+- [ ] Dipoles lagi
