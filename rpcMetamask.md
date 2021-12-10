@@ -3,28 +3,62 @@
 Pake VPN
 1. Avalanche
 
-| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer       |
-| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
 | 1. | Avalanche Mainnet C-Chain | Mainnet | https://api.avax.network/ext/bc/C/rpc | 43114       | AVAX             |  	https://cchain.explorer.avax.network/ |
-| 2. | Avalanche FUJI Testnet RPC | Testnet | https://api.avax-test.network/ext/bc/C/rpc | 43113       | AVAX             |  	https://testnet.explorer.avax.network/ |
-| 3. | Avalanche C Chain Local RPC | Testnet | https://api.avax.network/ext/bc/C/rpc | 43112       | AVAX             |  	https://snowtrace.io/ |
+| 2. | Avalanche FUJI Testnet | Testnet | https://api.avax-test.network/ext/bc/C/rpc | 43113       | AVAX             |  	https://testnet.explorer.avax.network/ |
+| 3. | Avalanche C Chain Local | Testnet | https://api.avax.network/ext/bc/C/rpc | 43112       | AVAX             |  	https://snowtrace.io/ |
 
 
 2. Binance Smart Chain
 
-| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer       |
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
-| 1. | Avalanche Mainnet C-Chain | Mainnet | https://api.avax.network/ext/bc/C/rpc | 43114       | AVAX             |  	https://cchain.explorer.avax.network/ |
-| 2. | Avalanche FUJI Testnet RPC | Testnet | https://api.avax-test.network/ext/bc/C/rpc | 43113       | AVAX             |  	https://testnet.explorer.avax.network/ |
-| 3. | Avalanche C Chain Local RPC | Testnet | https://api.avax.network/ext/bc/C/rpc | 43112       | AVAX             |  	https://snowtrace.io/ |
+| 1. | Binance Smart Chain Mainnet | Mainnet | https://bsc-dataseed.binance.org/ | 56       | AVAX             |  	https://bscscan.com/ |
+| 2. | Binance Smart Chain Testnet | Testnet | https://data-seed-prebsc-1-s1.binance.org:8545/ | 97       | AVAX             | https://testnet.bscscan.com/ | 	https://testnet.explorer.avax.network/ |
 
 
 
-| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer       |
+3. Cronos
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
-| 1. | Avalanche Mainnet C-Chain | Mainnet | https://api.avax.network/ext/bc/C/rpc | 43114       | AVAX             |  	https://cchain.explorer.avax.network/ |
-| 2. | Avalanche FUJI Testnet RPC | Testnet | https://api.avax-test.network/ext/bc/C/rpc | 43113       | AVAX             |  	https://testnet.explorer.avax.network/ |
-| 3. | Avalanche C Chain Local RPC | Testnet | https://api.avax.network/ext/bc/C/rpc | 43112       | AVAX             |  	https://snowtrace.io/ |
+| 1. | Cronos Mainnet  | Mainnet | https://evm-cronos.crypto.org | 25       | CRO             |  		https://cronos.crypto.org/explorer/ |
 
 
+4. Elastos
 
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
+| 1. | Elastos ETH Mainnet  | Mainnet | https://explorer.elaeth.io/ | 20       | ELA             |  		https://explorer.elaeth.io/ |
+
+
+5 Ethereum (Udah ada, gak perlu masukin lagi | Defaultly Added By Metamask)
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
+| 1. | Ethereum Mainnet  | Mainnet | https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161 | 1       | ETH             | 	https://etherscan.io |
+| 2. | Ethereum Ropsten Testnet  | Testnet | 	https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161 | 3       | ETH             | https://ropsten.etherscan.io |
+| 3. | Ethereum Rinkeby Testnet | Testnet | https://rinkey.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161 | 4       | ETH             | https://rinkey.etherscan.io |
+| 4. | Ethereum Goerli Testnet  | Mainnet |	https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161 | 5       | ETH             | 		https://goerli.etherscan.io |
+| 5. | Ethereum Kovan Testnet  | Testnet | 	https://kovan.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161 | 6       | ETH             | https://kovan.etherscan.io |
+
+6 Ethereum Classic
+
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
+| 1. | Ethereum Classic  | Mainnet |  	https://www.ethercluster.com/etc  | 61       | ETH             | 	https://blockscout.com/etc/mainnet/ |
+
+7 Fantom
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
+| 1. | Fantom Opera Mainnet | Mainnet | https://rpc.ftm.tools/ | 250       | FTM             |  https://ftmscan.com |
+| 2. | Binance Smart Chain Testnet | Testnet | https://data-seed-prebsc-1-s1.binance.org:8545/ | 4002       | FTM             | https://testnet.ftmscan.com	 | 	https://testnet.explorer.avax.network/ |
+
+8 Fuse
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
+| 1. | Fuse Mainnet   | Mainnet |  	https://rpc.fuse.io  | 122       | FUSE             | 	https://explorer.fuse.io/ |
