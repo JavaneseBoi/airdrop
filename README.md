@@ -1,3 +1,3 @@
 # airdrop
 
-Baca ./airdrop.md aja ya!
+Baca [dari sini](./airdrop.md) aja ya!
