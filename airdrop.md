@@ -53,4 +53,9 @@
 - [x] Persiapan Airdrop
 - [ ] Hal yang perlu diperhatikan soal airdrop
 - [ ] Buat daftar RPC Metamask dalam bentuk tabel
-- [ ] Dipoles lagi
+- [ ] Buat daftar Website swap
+- [ ] Buat daftar website pasar NFT
+- [ ] Dipoles lagi tutornya
+- [ ] Config bot telegram biar rapih
+- [ ] Buat bot telegram sendiri
+- [ ] Expansi ke Discord
