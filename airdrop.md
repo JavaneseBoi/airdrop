@@ -46,14 +46,21 @@
   - [Setting Metamask](./rpcMetamask.md), tahu gak sih kalian bisa konek ke berbagai network pakai metamask dengan cara setup RPC, pergi ke [link ini](./rpcMetamask.d) terus ikutin aja langkahnya.
   - **Kuota**, aku gak bisa bohong, airdrop lumayan deres kuotanya karena kalian bakal join banyak channel sama grup telegram, otomatis download banyak teks, jadi kuota lumayan kepakai.
   - **Mental**, siapin mentalmu karena akan ada suatu saat mood garap airdropmu menurun. Ingat ya, "Jangan pernah skip satu garapan airdrop, satupun." Karena setiap airdrop bisa jadi naga hasilnya, token A mungkin worth $3 untuk hari ini, tahun depan bisa jadi $3,000 tuh, siapa yang tahu?
-
-
+## "Mending garap airdrop di PC atau di HP?"
+Kelebihan masing-masing device:
+  1. HP
+     - Bisa nguli airdrop sambil rebahan, ya enak aja.
+     - Lebih nyantai.
+     - Nuyulnya gak ribet, jujur aja, nuyul di PC susah banget wkwk. Atau aku aja yang belum nemu cara nuyul di PC yang bener.
+  2. PC/Laptop
+     - Hampir semua airdrop bisa digarap, ada sebagian airdrop yang gak bisa digarap di HP meskipun pakai Kiwi Browser. Dan kalau butuh buka apk bisa pakai emulator kayak Nox atau Bluestack.
 
 
 ##### To do list
 - [x] Perkenalan Airdrop
 - [x] Persiapan Airdrop
 - [ ] Hal yang perlu diperhatikan soal airdrop
+- [ ] Tips airdropan
 - [ ] Buat daftar RPC Metamask dalam bentuk tabel
 - [ ] Buat daftar Website swap
 - [ ] Buat daftar website pasar NFT
