@@ -176,6 +176,6 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 
 
 
-
+##### Any Error?
 If there are any error or there are some network I add here, please don't be shy to contribute, or if you that shy contact me on t.me/sidrafh. -sidra
 Kalau ada eror atau ada network yang belum ku tambahin, ikut kontribusi aja, atau kabarin aja ke t.me/sidrafh. -sidra
