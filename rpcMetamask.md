@@ -1,4 +1,17 @@
 # Tutorial Setting Metamask
+
+#### Table of Contents
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+## Tutorial Tambah Jaringan di HP
+
+
+## Tutorial Tambah Jaringan di PC
 1. Kalian ke profile menu Metamask di bagian pojok kanan atas yang bulet itu
 ![step 1](https://user-images.githubusercontent.com/64100477/145685392-82782e71-1354-4ad9-915a-b86df3216d88.png)
 2. Ke bagian setting
@@ -8,6 +21,8 @@
 4. Isi RPC sesuai keterangan di atasnya. Daftar RPC-nya ada di bawah, scroll aja terus tambahin network yang kalian butuhin. Tambah semua network juga gak apa sih.
 ![2021-12-11-235533_1366x768_scrot](https://user-images.githubusercontent.com/64100477/145685389-6137467a-e96d-40c4-a71d-6c7433b174e3.png)
 
+
+## List RPC
 Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 
 1. Avalanche
