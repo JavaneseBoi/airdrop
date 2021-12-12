@@ -41,11 +41,9 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
 | 1. | Binance Smart Chain Mainnet | Mainnet | https://bsc-dataseed.binance.org/ | 56       | AVAX             |  	https://bscscan.com/ |
-| 2. | Binance Smart Chain Testnet | Testnet | https://data-seed-prebsc-1-s1.binance.org:8545/ | 97       | AVAX             | https://testnet.bscscan.com/ | 	https://testnet.explorer.avax.network/ |
-
+| 2. | Binance Smart Chain Testnet | Testnet | https://data-seed-prebsc-1-s1.binance.org:8545/ | 97       | AVAX             | https://testnet.bscscan.com/ | 	
 
 #### 3. Cronos
-
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
@@ -70,7 +68,6 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 | 5. | Ethereum Kovan Testnet  | Testnet | 	https://kovan.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161 | 6       | ETH             | https://kovan.etherscan.io |
 
 #### 6. Ethereum Classic 
-
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
@@ -134,3 +131,33 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 
 
 #### 15. POA (Proof of Autonomy)
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
+| 1. | POA (Proof of Autonomy) Mainnet | Mainnet | 	https://core.poanetwork.dev | 99       | POA             | 	https://blockscout.com/poa/core	 |
+| 2. | POA Sokol Testnet | Testnet | 	 	https://sokol.poa.network  | 77       | POA             | 	 	https://blockscout.com/poa/sokol | 
+
+
+#### 16. Telos
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
+| 1. | Telos EVM Mainnet  | Mainnet | 		https://mainnet.telos.net/evm | 40       | TLOS             | 		https://telos.net/	 |
+
+#### 17. Ubiq
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
+| 1. | Ubiq Mainnet  | Mainnet | https://rpc.octano.dev/ | 8       | UBQ             | 		https://ubiqscan.io/		 |
+
+#### 18. xDai
+
+| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
+| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
+| 1. | xDai Mainnet  | Mainnet | https://rpc.xdaichain.com/ | 100       | xDai             | 			https://blockscout.com/xdai/mainnet/		 |
+
+
+
+
+If there are any error or there are some network I add here, please don't be shy to contribute, or if you that shy contact me on t.me/sidrafh. -sidra
+Kalau ada eror atau ada network yang belum ku tambahin, ikut kontribusi aja, atau kabarin aja ke t.me/sidrafh. -sidra
