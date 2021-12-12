@@ -28,7 +28,7 @@
 ### "Manfaat bagi gue apa dong?"
   Ya seperti yang ku bilang tadi, kalian bakalan dapet suatu token kripto gratis yang kadang ada valuenya. Belum lagi kalian bakal dapet ilmu soal crypto. Misalnya; cara simpen crypto pakai wallet sendiri, cara kirim crypto ke wallet temen, crypto tuh kayak gimana, gitu-gitulah. Nah jadi ya ini menurutku ya langkah awal untuk mempelajari crypto terbaik. Kalian gak ada modal, modalnya mah hp sama kemauan aja, eh sama kuota.
 
-## "Oke keren. Terus gimana gue join airdrop ini? MLM bukan sih? Kok kayak banyak janji manisnya kayak sales MLM?"
+### "Oke keren. Terus gimana gue join airdrop ini? MLM bukan sih? Kok kayak banyak janji manisnya kayak sales MLM?"
   Buset-buset, gak MLM dong. Oke cara joinnya mah itu, cari sumber garapan airdrop. Nih ya, airdrop itu banyak yang scam, jadi pilah-pilih aja jadi waktumu gak kebuang sia-sia. Sumber garapan airdrop bisa kamu cari di [Airdrop Watson](https://t.me/airdropwatson), Airdrop Finder, Official Airdrop6, dll. Bisa juga kalian cari lewat twitter pakai #Airdrop, bejibun tuh. Tapi kalau lewat twitter jadi ribet sih, tapi kalian bakal dapet info airdrop early tuh. Tapi ya mending nyimak di [Airdrop Watson](https://t.me/airdropwatson) aja, ribet amat nyimak Twitter, mending mabar mobel lejen, ya gak?
   
 # II. Persiapan Airdropan
