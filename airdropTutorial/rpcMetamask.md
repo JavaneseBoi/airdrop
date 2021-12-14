@@ -58,8 +58,8 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
-| 1. | Binance Smart Chain Mainnet | Mainnet | https://bsc-dataseed.binance.org/ | 56       | AVAX             |  	https://bscscan.com/ |
-| 2. | Binance Smart Chain Testnet | Testnet | https://data-seed-prebsc-1-s1.binance.org:8545/ | 97       | AVAX             | https://testnet.bscscan.com/ | 	
+| 1. | Binance Smart Chain Mainnet | Mainnet | https://bsc-dataseed.binance.org/ | 56       | BSC             |  	https://bscscan.com/ |
+| 2. | Binance Smart Chain Testnet | Testnet | https://data-seed-prebsc-1-s1.binance.org:8545/ | 97       | BSC             | https://testnet.bscscan.com/ | 	
 
 #### 3. Cronos
 
