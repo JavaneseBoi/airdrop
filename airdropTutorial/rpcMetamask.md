@@ -123,7 +123,7 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
-| 1. | KCC Mainnet | Mainnet | https://rpc.kcc.network/ | 321       | KCS             |  		https://scan.kcc.network |
+| 1. | KCC Mainnet | Mainnet | https://rpc-mainnet.kcc.network | 321       | KCS             |  		https://scan.kcc.network |
 | 2. | KCC Testnet | Testnet | https://scan-testnet.kcc.network | 322       | tKCS             | 		https://scan-testnet.kcc.network	 | 
 
 
