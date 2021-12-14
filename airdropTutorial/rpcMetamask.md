@@ -82,7 +82,7 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
-| 1. | Ethereum Classic  | Mainnet |  	https://www.ethercluster.com/etc  | 61       | ETH             | 	https://blockscout.com/etc/mainnet/ |
+| 1. | Ethereum Classic Mainnet | Mainnet |  	https://www.ethercluster.com/etc  | 61       | ETH             | 	https://blockscout.com/etc/mainnet/ |
 
 #### 6. Fantom
 
