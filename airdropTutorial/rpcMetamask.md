@@ -5,7 +5,7 @@
 >- [Table of Contents](https://github.com/JavaneseBoi/airdrop/blob/main/rpcMetamask.md#table-of-contents)
 >- [Tutorial Tambah Jaringan di HP](https://github.com/JavaneseBoi/airdrop/blob/main/rpcMetamask.md#tutorial-tambah-jaringan-di-hp)
 >- [Tutorial Tambah Jaringan di PC](https://github.com/JavaneseBoi/airdrop/blob/main/rpcMetamask.md#tutorial-tambah-jaringan-di-pc)
->- [List RPC](https://github.com/JavaneseBoi/airdrop/blob/main/rpcMetamask.md#list-rpc)
+>- [List RPC](https://github.com/JavaneseBoi/airdrop/blob/main/rpcMetamask.md#list-rpc) LINK RUSAK KABEH MENGISOR
 >   - [Avalanche](https://github.com/JavaneseBoi/airdrop/blob/main/rpcMetamask.md#1-avalanche) 
 >   - [Binance Smart Chain](https://github.com/JavaneseBoi/airdrop/blob/main/rpcMetamask.md#2-binance-smart-chain) 
 >   - [Cronos](https://github.com/JavaneseBoi/airdrop/blob/main/rpcMetamask.md#3-cronos) 
