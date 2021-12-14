@@ -68,14 +68,7 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 | 1. | Cronos Mainnet  | Mainnet | https://evm-cronos.crypto.org | 25       | CRO             |  		https://cronos.crypto.org/explorer/ |
 
 
-#### 4. Elastos
-
-| No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
-| ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
-| 1. | Elastos ETH Mainnet  | Mainnet | https://explorer.elaeth.io/ | 20       | ELA             |  		https://explorer.elaeth.io/ |
-
-
-#### 5. Ethereum (Udah ada, gak perlu masukin lagi | Defaultly Added By Metamask)
+#### 4. Ethereum (Udah ada, gak perlu masukin lagi | Defaultly Added By Metamask)
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
@@ -85,26 +78,26 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 | 4. | Ethereum Goerli Testnet  | Mainnet |	https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161 | 5       | ETH             | 		https://goerli.etherscan.io |
 | 5. | Ethereum Kovan Testnet  | Testnet | 	https://kovan.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161 | 6       | ETH             | https://kovan.etherscan.io |
 
-#### 6. Ethereum Classic 
+#### 5. Ethereum Classic 
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
 | 1. | Ethereum Classic  | Mainnet |  	https://www.ethercluster.com/etc  | 61       | ETH             | 	https://blockscout.com/etc/mainnet/ |
 
-#### 7. Fantom
+#### 6. Fantom
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
 | 1. | Fantom Opera Mainnet | Mainnet | https://rpc.ftm.tools/ | 250       | FTM             |  https://ftmscan.com |
 | 2. | Fantom Testnet | Testnet | https://rpc.testnet.fantom.network/ | 4002       | FTM           | https://testnet.ftmscan.com	 | 	
 
-#### 8. Fuse
+#### 7. Fuse
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------|
 | 1. | Fuse Mainnet   | Mainnet |  	https://rpc.fuse.io  | 122       | FUSE             | 	https://explorer.fuse.io/ |
 
-#### 9. Harmony
+#### 8. Harmony
 
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
@@ -112,14 +105,14 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 | 1. | Harmony Mainnet | Mainnet | https://api.harmony.one | 1666600000       | ONE             |  https://explorer.harmony.one/ |
 | 2. | Harmony Testnet | Testnet |  	https://api.s0.b.hmny.io | 1666700000       | ONE             | https://explorer.pops.one/	 | 	
 
-#### 10. Huobi Eco Chain | HECO
+#### 9. Huobi Eco Chain | HECO
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
 | 1. | HECO Mainnet | Mainnet | https://http-mainnet-node.huobichain.com/ | 128       | HT             |  	https://hecoinfo.com/ |
 | 2. | HECO Testnet | Testnet |  https://http-testnet.hecochain.com | 256       | HT             | 	https://testnet.hecoinfo.com/	 | 	
 
-#### 11. Kucoin Chain
+#### 10. Kucoin Chain
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
@@ -127,20 +120,20 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 | 2. | KCC Testnet | Testnet | https://scan-testnet.kcc.network | 322       | tKCS             | 		https://scan-testnet.kcc.network	 | 
 
 
-#### 12. Moonriver
+#### 11. Moonriver
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
 | 1. | Moonriver Mainnet | Mainnet | 	https://rpc.moonriver.moonbeam.network | 1285       | MOVR             | 		https://blockscout.moonriver.moonbeam.network/	 |
 | 2. | Moonbase Alpha | Testnet |  	https://rpc.testnet.moonbeam.network | 1287       | MOVR             | 1287 	https://moonbase-blockscout.testnet.moonbeam.network/ | 
 
-#### 13. OKExChain
+#### 12. OKExChain
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
 | 1. | OKExChain Mainnet | Mainnet | 		https://exchainrpc.okex.org | 66       | OKT             | 		https://www.oklink.com/okexchain	 |
 | 2. | OKExChain Testnet | Testnet |  	 	https://exchaintesttmrpc.okex.org | 1287       | OKT       |       	https://www.oklink.com/okexchain-test/ | 
 
-#### 14. Polygon Matic
+#### 13. Polygon Matic
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
@@ -148,7 +141,7 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 | 2. | Polygon Matic/Mumbai Testnet | Testnet | 	https://rpc-mumbai.maticvigil.com | 80001       | MATIC             | 	https://mumbai.polygonscan.com/ | 
 
 
-#### 15. POA (Proof of Autonomy)
+#### 14. POA (Proof of Autonomy)
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
@@ -156,19 +149,19 @@ Jangan lupa pake VPN, Binance diblokir sama pemerintah soalnya.
 | 2. | POA Sokol Testnet | Testnet | 	 	https://sokol.poa.network  | 77       | POA             | 	 	https://blockscout.com/poa/sokol | 
 
 
-#### 16. Telos
+#### 15. Telos
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
 | 1. | Telos EVM Mainnet  | Mainnet | 		https://mainnet.telos.net/evm | 40       | TLOS             | 		https://telos.net/	 |
 
-#### 17. Ubiq
+#### 16. Ubiq
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
 | 1. | Ubiq Mainnet  | Mainnet | https://rpc.octano.dev/ | 8       | UBQ             | 		https://ubiqscan.io/		 |
 
-#### 18. xDai
+#### 17. xDai
 
 | No.  | Symbol & Name           | Type       | RPC URL                                                        | Chain ID | Currency Symbol | Block Explorer     |
 | ---- | ----------------------- | ---------- | ---------------------------------                              | -------- | --------------- | -------------------- |
