@@ -5,8 +5,11 @@ Halo, seperti namanya file ini berisi tentang list website swap token, misal dar
 
 ## Writer's Choice
 - Solana [1Sol](https://app.1sol.io/trade/USDC-SOL) 
-  - Minusnya feenya lebih gede, dikit.
-  - Positifnya bisa dibandingin outputnya dari dex satu ke dex yang lain, kayak di bawah: 
+  - Minus
+    1. Minusnya feenya lebih gede, dikit, dikit doang beneran.
+  - Plus
+    1. Gak perlu hold 0.05 SOL, bisa langsung swap, gak kayak di [Raydium](https://www.raydium.io/swap/) yang mana kamu perlu hold 0.05 SOL setidaknya.
+    2. Positifnya bisa dibandingin outputnya dari dex satu ke dex yang lain, kayak di bawah: 
 ![Screenshot_20211218_155525](https://user-images.githubusercontent.com/64100477/146635595-04253a02-98e3-437e-ae07-cf9983697ad3.png)
 
 - Ethereum 
