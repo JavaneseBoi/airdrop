@@ -17,13 +17,15 @@
 
 # I. Kenalan sama Airdrop 
 ## Join Grup Airdrop Watson Ya!
-  Jangan lupa join juga channel info [Airdrop Watson](https://t.me/airdropwatson) sama [Grup Diskusi Airdrop Watson](https://t.me/airdropwatsondiscuss) biar kalian enak nguli airdropnya.
+  Jangan lupa join juga channel info [Airdrop Watson](https://t.me/airdropwatson) sama [Grup Diskusi Airdrop Watson](https://t.me/airdropwatsondiscuss) biar kalian enak nguli airdropnya. 
+![Screenshot_20211219_120522](https://user-images.githubusercontent.com/64100477/146664574-1c742405-664c-496a-80a7-6c4d349c0a0e.png)
+
   
 ### "Oke, gue udah join, tapi apa itu airdrop?"
-  **Airdrop = kripto gratis = duit gratis.** Ya gitulah intinya.
+  **Airdrop = kripto gratis = duit gratis.** Ya gitulah intinya. Kalau versi mucho texto: Airdrop itu projek blockchain buat ngasih cryptocurrency secara gratis, ya gratis sih, cuma ada beberapa kondisi yang perlu kalian penuhi. Misalnya ngerjain social task dari penyelenggara airdrop kayak follow akun dll., hold cryptocurrency tertentu tergantung penyelenggara, dll.
   
 ### "Lah, duit gratis? Tujuan airdrop bagi penyelenggara airdrop apa dong?"
-  Promosiin ke masyarakat luas, nanti kalian juga paham, selain itu juga ada tujuan lain dari developer tokennya sih. DYOR aja deh, yang penting kita dapet duit aja dulu, tujuannya mah buat apa wkwk.
+  Promosiin ke masyarakat luas kalau 'ada cryptocurrency baru nih, mereka ngasih token gratis, gas join!' gitu, terus ngasih hadiah ke pengguna fitur aplikasi kayak gini 'dApp1 ngasih user early token dApp1 sebagai ucapan terima kasih karena dah pakai fitur dApp1', juga **Generation of Lead Data Base.** If there was another word to describe marketing, it definitely would be leads. Great marketing focuses on leads and good enterprises pay huge attention to it. Generation of great leads is very essential as it enhances the marketing campaign of an organization. A wonderful reason to use airdrop is to generate lead data base. It is extremely helpful in doing so.
   
 ### "Manfaat bagi gue apa dong?"
   Ya seperti yang ku bilang tadi, kalian bakalan dapet suatu token kripto gratis yang kadang ada valuenya. Belum lagi kalian bakal dapet ilmu soal crypto. Misalnya; cara simpen crypto pakai wallet sendiri, cara kirim crypto ke wallet temen, crypto tuh kayak gimana, gitu-gitulah. Nah jadi ya ini menurutku ya langkah awal untuk mempelajari crypto terbaik. Kalian gak ada modal, modalnya mah hp sama kemauan aja, eh sama kuota.
